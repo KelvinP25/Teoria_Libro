@@ -1,0 +1,52 @@
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\MenuEjercicios5.exe
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\MenuEjercicios5.deps.json
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\MenuEjercicios5.runtimeconfig.json
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\MenuEjercicios5.runtimeconfig.dev.json
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\MenuEjercicios5.dll
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\ref\MenuEjercicios5.dll
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\MenuEjercicios5.pdb
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.csproj.AssemblyReference.cache
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\Ejercicios\Factorial\fNumero.g.cs
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5_MarkupCompile.cache
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5_MarkupCompile.lref
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\Ejercicios\Factorial\fNumero.baml
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.g.resources
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.AssemblyInfoInputs.cache
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.AssemblyInfo.cs
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.csproj.CoreCompileInputs.cache
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.dll
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\ref\MenuEjercicios5.dll
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.pdb
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.genruntimeconfig.cache
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\Ejercicios\NumeroEnLetras\nLetras.g.cs
+C:\Users\Duarte\Documents\Universidad Católica Nordestana\Programación Aplicada I\Tareas\Teoría\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\Ejercicios\NumeroEnLetras\nLetras.baml
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\MenuEjercicios5.exe
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\MenuEjercicios5.deps.json
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\MenuEjercicios5.runtimeconfig.json
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\MenuEjercicios5.runtimeconfig.dev.json
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\MenuEjercicios5.dll
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\ref\MenuEjercicios5.dll
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\bin\Debug\net5.0-windows\MenuEjercicios5.pdb
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_4.g.cs
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_5.g.cs
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5_MarkupCompile.cache
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5_MarkupCompile.lref
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_4.baml
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\Ejercicios\Ejercicio_5.baml
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.g.resources
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.AssemblyInfo.cs
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.dll
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\ref\MenuEjercicios5.dll
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.pdb
+C:\Users\Asus\Downloads\Tarea2\MenuEjercicios5\obj\Debug\net5.0-windows\MenuEjercicios5.genruntimeconfig.cache
