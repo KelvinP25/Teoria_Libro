@@ -93,7 +93,7 @@ namespace Capitulo_7.Ejercicio {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Capitulo_7;component/ejercicio/ejercicio_5.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Capitulo_7;V1.0.0.0;component/ejercicio/ejercicio_5.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Ejercicio\Ejercicio_5.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

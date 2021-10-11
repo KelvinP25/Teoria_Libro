@@ -101,7 +101,7 @@ namespace Capitulo_6.Ejercicios {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Capitulo_6;component/ejercicios/ejercicio_5.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Capitulo_6;V1.0.0.0;component/ejercicios/ejercicio_5.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Ejercicios\Ejercicio_5.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
