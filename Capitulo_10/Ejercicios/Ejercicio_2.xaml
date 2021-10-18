@@ -1,0 +1,18 @@
+﻿<Window x:Class="Capitulo_10.Ejercicios.Ejercicio_2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Capitulo_10.Ejercicios"
+        mc:Ignorable="d"
+        Title="Ejercicio_2" Height="450" Width="500">
+    <Grid>
+        <StackPanel>
+            <StackPanel Margin="10">
+                <Label Content="Ingresar Estudiante : "/>
+                <Button x:Name="IngresarButton" Content="Ingredar Datos" Width="120" HorizontalAlignment="Left" Margin="5,10" Click="IngresarButton_Click" />
+                <TextBlock x:Name="ResultadoTextBlock" Width="400" HorizontalAlignment="Left" Margin="5,20,0,0" Height="300"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
